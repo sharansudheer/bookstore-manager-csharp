@@ -1,0 +1,6 @@
+backend:
+    image: BookStoreManager
+    volumes:
+      - db-data:/etc/data
+    networks:
+      - back-tier
