@@ -1,4 +1,4 @@
-﻿namespace BookStoreManager.EntryPoints
+﻿namespace BookStoreManager.Services
 {
     public class ApiService
     {
